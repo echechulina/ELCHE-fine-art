@@ -2,14 +2,14 @@
 
 Final project
 
-#Description
+# Description
 Here you can find my final integrated project, which includes images, design files and three html files.
 
-#Installation
+# Installation
 I am very glad to show you my first website. I've decided to create the webside about my art work. Painting takes a special part in my heart, it is one of inpartant things that makes me that person who I am.
 I hope that you will enjoy it!
 
-#MIT License
+# MIT License
 MIT License Copyright (c) 2020 Elena Chechulina
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
